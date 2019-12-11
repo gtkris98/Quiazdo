@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308252013436",
+    "firebase_url": "https://quizado-98b61.firebaseio.com",
+    "project_id": "quizado-98b61",
+    "storage_bucket": "quizado-98b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308252013436:android:5e52066ec25dc32d556af9",
+        "android_client_info": {
+          "package_name": "com.example.quizadoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308252013436-o3e0gi1pgudhhg6ii4bl6k576s89eejq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4H3WN8490ZVDoKMjnduSgscg39-MzB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308252013436-o3e0gi1pgudhhg6ii4bl6k576s89eejq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
