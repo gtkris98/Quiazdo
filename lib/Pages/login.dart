@@ -98,7 +98,7 @@ class _LoginState extends State<Login> {
 //                                MaterialPageRoute(
 //                                    builder: (context) =>
 //                                        UserDashboardWidget(widget._auth)));
-                              Navigator.of(context).popAndPushNamed('/dashboard', arguments: widget._auth);
+                              Navigator.of(context).pushReplacementNamed('/dashboard', arguments: widget._auth);
                           }
                           else{
                             _showDialog();

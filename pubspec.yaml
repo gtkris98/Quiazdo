@@ -17,6 +17,10 @@ environment:
   sdk: ">=2.2.0 <3.0.0"
 
 dependencies:
+  http: ^0.12.0+2
+  weather: ^0.9.5
+  charcode: ^1.1.2
+  location: ^2.3.5
   rflutter_alert: ^1.0.3
   progress_dialog: ^1.2.0
   firebase_auth: ^0.15.1
@@ -48,6 +52,12 @@ flutter:
   assets:
     - assets/logo.png
     - assets/logo-main.png
+    - assets/clear-sky-day.gif
+    - assets/snow.gif
+  fonts:
+    - family: DancingScript
+      fonts:
+        - asset: assets/dancing_script.ttf
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
